@@ -4,7 +4,7 @@ Tools used:
 
 <ul>
   <li>HTML5</li>
-  <li>CSS3</li>
+  <li>CSS4</li>
   <li>JQuery</li>
 </ul>
 
